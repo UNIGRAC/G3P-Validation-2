@@ -26,3 +26,6 @@ The Paris Basin is used here as an example:
 •	Purpose: Compare GWSA time series from G3P with in-situ GWLA at the cell scale to observe the spatial variability of correlations.  
 •	Inputs: [ParisBasin_GWLA_GWSA.xlsx](https://github.com/UNIGRAC/G3P-Validation-2/blob/bc0d56ede5a386bfe8f9c2f8f047730db3c31116/Paris_Basin%20-%20DEMO/3%20Comparisons/ParisBasin_GWLA_GWSA.xlsx) ; [ParisBasin_G3P_GWSA.xlsx](https://github.com/UNIGRAC/G3P-Validation-2/blob/bc0d56ede5a386bfe8f9c2f8f047730db3c31116/Paris_Basin%20-%20DEMO/3%20Comparisons/ParisBasin_G3P_GWSA.xlsx)   
 •	Outputs: Jupiter Notebook map   
+
+### 5. QGIS folder
+This folder contains the necessary materials for digital visualization. It includes a 0.5° resolution grid, the shapefile of the Paris Basin, the grid used to clip the .nc data, as well as the layer of lithological units.
