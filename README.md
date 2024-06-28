@@ -1,6 +1,7 @@
 # Evaluation of the G3P project against in-situ groundwater observations (2024) 
 Codes (.ipynb), data (.shp) and workflow (.pdf) to process G3P (.nc) and in-situ groundwater data (.xlsx) [Validation 2024]   
 Main Author: [Sacha MORLIERE](https://github.com/SachaMORLIERE)
+Supervisor: [CAO Feifei](https://github.com/Feifei0526)
 ## Introduction  
 This evaluation aims to compare, within a given region and period, the time series of GroundWater Storage Anomalies (GWSA) from G3P with the time series of GroundWater Level Anomalies (GWLA) and GroundWater Storage Anomalies (GWSA) from wells.  
 ## Methodology  
