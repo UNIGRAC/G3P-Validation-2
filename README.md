@@ -15,7 +15,7 @@ The Paris Basin is used here as an example:
 •	Outputs: [ParisBasin_GWLA_GWSA.xlsx](https://github.com/UNIGRAC/G3P-Validation-2/blob/bc0d56ede5a386bfe8f9c2f8f047730db3c31116/Paris_Basin%20-%20DEMO/1%20In%20Situ/ParisBasin_GWLA_GWSA.xlsx)  
 ### 2. ParisBasin_G3P_GWSA.ipynb  
 •	Purpose: Extract GWSA time series from G3P (netCDF files) and the geometry of the studied region (shapefile). The latest version of G3P, v1.12, is used.  
-•	Inputs: [.nc annual datasets from G3P](https://github.com/UNIGRAC/G3P-Validation-2/tree/bc0d56ede5a386bfe8f9c2f8f047730db3c31116/Paris_Basin%20-%20DEMO/2_G3P_dates) ; [Grids_G3P.shp](https://github.com/Elie114/G3P-Validation-2/blob/238c40c0f557a799d3311ae7790fafc412855a31/Paris_Basin%20-%20DEMO/2_G3P_dates/Grids_G3P.shp)    
+•	Inputs: [.nc annual datasets from G3P](https://github.com/UNIGRAC/G3P-Validation-2/tree/bc0d56ede5a386bfe8f9c2f8f047730db3c31116/Paris_Basin%20-%20DEMO/2_G3P_dates) ; [Grids_G3P.shp](https://github.com/UNIGRAC/G3P-Validation-2/blob/f03c6b4424135eddf017a791ba9c28c08da3a2d0/Paris_Basin%20-%20DEMO/2_G3P_dates/Grids_G3P.shp)    
 •	Outputs: [ParisBasin_G3P_GWSA.xlsx](https://github.com/UNIGRAC/G3P-Validation-2/blob/bc0d56ede5a386bfe8f9c2f8f047730db3c31116/Paris_Basin%20-%20DEMO/2_G3P_dates/ParisBasin_G3P_GWSA.xlsx)  
 ### 3. ParisBasin_validation.ipynb  
 •	Purpose: Compare the GWSA time series from G3P with in-situ GWLA and GWSA time series. Note that for the comparison with in-situ GWLA, the data are normalized. Pearson correlation coefficient (pattern) and Mann-Kendall analysis (long-term trend) are used.  
